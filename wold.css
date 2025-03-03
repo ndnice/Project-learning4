@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+  }
+  li[class] {
+    font-size: 120%;
+  }
+  
+  li[class="a"] {
+    background-color: yellow;
+  }
+  
+  li[class~="a"] {
+    color: red;
+  }
