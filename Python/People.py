@@ -1,0 +1,1 @@
+print("people of the world")
